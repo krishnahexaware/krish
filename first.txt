@@ -1,6 +1,10 @@
 first
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 third
 second
 >>>>>>> 9ffb430... 2nd
+=======
+third
+>>>>>>> d4b4b69... 3rd
