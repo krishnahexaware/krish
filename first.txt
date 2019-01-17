@@ -4,7 +4,11 @@ first
 =======
 third
 second
+<<<<<<< HEAD
 >>>>>>> 9ffb430... 2nd
 =======
 third
 >>>>>>> d4b4b69... 3rd
+=======
+fourth
+>>>>>>> 29465ea... 4th
