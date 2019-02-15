@@ -1,0 +1,17 @@
+-- change this to your team id
+use FTP117;
+
+-- The CEO
+INSERT INTO EMPLOYEE VALUES(
+1000,'Dhivya','DhivyaB@hexaware.com','9566773044','2019-10-22','Developer',NULL,3);
+
+
+-- Two Managers
+INSERT INTO EMPLOYEE VALUES
+(2000,'Darshana','DarshanaJ@hexaware.com','9785638392','2017-10-21','Programmer',1000,0),
+(3000,'Krishna','KrishnaS@hexaware.com','8976549809','2019-09-18','Tester',1000,4);
+
+-- Two Employees
+INSERT INTO EMPLOYEE VALUES
+(4000,'Priyanka','priyankaP@hexaware.com','9867467838','2018-10-22','Developer',2000,6),
+(5000,'Bharathi','BharathiN@hexaware.com','8976439673','2016-01-01','Programmer',3000,2);
